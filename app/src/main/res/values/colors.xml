@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Screens background color-->
+    <color name="bgScreenFirst">#f64c73</color>
+    <color name="bgScreenSecond">#20d2bb</color>
+    <color name="bgScreenThird">#3395ff</color>
+    <color name="bgScreenFourth">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dotDarkScreenFirst">#d1395c</color>
+    <color name="dotDarkScreenSecond">#14a895</color>
+    <color name="dotDarkScreenThird">#2278d4</color>
+    <color name="dotDarkScreenFourth">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dotLightScreenFirst">#f98da5</color>
+    <color name="dotLightScreenSecond">#8cf9eb</color>
+    <color name="dotLightScreenThird">#93c6fd</color>
+    <color name="dotLightScreenFourth">#e4b5fc</color>
+
+    <array name="arrayDotActive">
+        <item>@color/dotLightScreenFirst</item>
+        <item>@color/dotLightScreenSecond</item>
+        <item>@color/dotLightScreenThird</item>
+        <item>@color/dotLightScreenFourth</item>
+    </array>
+
+    <array name="arrayDotInactive">
+        <item>@color/dotDarkScreenFirst</item>
+        <item>@color/dotDarkScreenSecond</item>
+        <item>@color/dotDarkScreenThird</item>
+        <item>@color/dotDarkScreenFourth</item>
+    </array>
+</resources>

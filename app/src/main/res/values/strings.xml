@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Intro</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_first_title">Surprise</string>
+    <string name="slide_first_desc">When you are surprised, it will be such a face.</string>
+
+    <string name="slide_second_title">Sleepy</string>
+    <string name="slide_second_desc">When you are sleepy, you will have such a face.</string>
+
+    <string name="slide_third_title">Smile</string>
+    <string name="slide_third_desc">When you are happy, it will be such a face.</string>
+
+    <string name="slide_fourth_title">Sad</string>
+    <string name="slide_fourth_desc">When you are sad, you will have such a face</string>
+</resources>
